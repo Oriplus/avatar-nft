@@ -200,7 +200,7 @@ contract MyAvatarDNA {
         "ShortHairTheCaesarSidePart"
     ];
 
-    /*ADN has 26 numbers, where each 2 characters
+    /*ADN has 26 numbers, where every 2 characters
      represent an attribute. Ex: 12 45 85 01 78 96 41 75 89 41 36 74 15*/
 
     function deterministicPseudoRandomDNA(uint256 _tokenId, address _minter)
