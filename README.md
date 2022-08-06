@@ -1,5 +1,6 @@
 
 # My Avatar NFT
+![nft](https://user-images.githubusercontent.com/42686893/183229835-741f1600-a2c7-4292-953d-b2a495a6a12d.png)
 
 Create pseudo-random NFTs using ERC721.
 
