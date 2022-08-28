@@ -10,6 +10,8 @@ The contract uses a DNA structure to create an Avatar. The DNA has 26 numbers wh
 
 You can check this contract in [Rinkeby](https://rinkeby.etherscan.io/address/0x608566C6C52FCCF2E5AAdE102d1b41C2c62257f8)
 
+Visit [My avatars](https://lucky-cake-3884.on.fleek.co/)
+
 
 
 
